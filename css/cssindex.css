@@ -6,7 +6,7 @@ body, html {
     font-family: 'Roboto', sans-serif;
     color: white;
     text-align: center;
-    background-image: url(img/terradegrade.png);
+    background-image: url(../img/terradegrade.png);
     background-repeat: no-repeat;
  background-size: cover;
  background-position: center;
